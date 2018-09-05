@@ -1,0 +1,8 @@
+name: NameItemDrop
+main: com.gmail.Moon_Eclipse.nid.NameItemDrop
+version: 1.0[18.09.05]
+author: Moon_Eclipse(MCMANY Mincraft Manyserver)
+
+commands:
+  nid:
+    description: /nid rload, /nid give PlayerNickName ItemName, /nid list
